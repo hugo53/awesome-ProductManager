@@ -40,6 +40,13 @@ Awesome Product Manager
 - [Canvanizer](https://canvanizer.com/). A website lets Product Manager create business model canvas and do quick prototype from idea.
 
 
+## Credits
+This awesome list is gathered from many resources on Internet, including these below sources but not limited:
+- [53 Articles and Books that will Make you a Great Product Manager](https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7)
+- [What are the best Books for Product Managers?](http://www.quora.com/What-are-the-best-Books-for-Product-Managers)
+- [The 10 Books Every Product Manager Should Read](http://pmblog.quora.com/The-10-Books-Every-Product-Manager-Should-Read)
+
+
 
 
 
