@@ -13,6 +13,7 @@ Awesome Product Manager
 	- [Essays](#essays)
 	- [Mailing Lists](#mailing-lists)
 - [Tools](#tools)
+- [Jobs](#jobs)
 
 > All resources are collected from many sources on Internet and ordered randomly.
 
@@ -47,6 +48,8 @@ Awesome Product Manager
 - [Canvanizer](https://canvanizer.com/), a website lets Product Manager create business model canvas and do quick prototype from idea.
 - [Taskade](https://taskade.com/), a collaborative task manager to help teams organize ideas, tasks, and project roadmaps.
 
+## Jobs
+- [Path to Product](https://www.pathtoproduct.com) - Discover over 1,500 product jobs at startups and tech companies.
 
 ## Credits
 This awesome list is gathered from many resources on Internet, including these below sources but not limited:
