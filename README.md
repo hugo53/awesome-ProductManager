@@ -1,3 +1,5 @@
+<h4 style="text-align: center;">✨ Sponsor: <a href="https://mindmac.app" target=_blank">MindMac</a> now offers 30% OFF on all plans for first purchase with code WELCOME30 💖. See details below!</h4>
+
 Awesome Product Manager
 ======================
 > A curated list of awesome books, tools and other resources for Product Managers. Inspired by 'awesome-' repos. All PRs are welcomed to contribute to this awesome stuff.
@@ -13,6 +15,7 @@ Awesome Product Manager
 	- [Essays](#essays)
 	- [Mailing Lists](#mailing-lists)
 - [Tools](#tools)
+- [Sponsor](#sponsor)
 
 > All resources are collected from many sources on Internet and ordered randomly.
 
@@ -54,7 +57,16 @@ This awesome list is gathered from many resources on Internet, including these b
 - [What are the best Books for Product Managers?](http://www.quora.com/What-are-the-best-Books-for-Product-Managers)
 - [The 10 Books Every Product Manager Should Read](http://pmblog.quora.com/The-10-Books-Every-Product-Manager-Should-Read)
 
+## Sponsor
+This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
 
+✨ For a limited-time, MindMac now offers 30% OFF on all plans for first purchase with code WELCOME30. Let’s check it out if you find this helpful 💖!
+
+![conversation-trimmed-2-4k-up-speed-crf23](https://github.com/hugo53/awesome-RemoteWork/assets/1033299/646dd241-274d-4527-9ce5-c6e54dda8a86)
+
+
+
+https://github.com/hugo53/awesome-RemoteWork/assets/1033299/75e2eafb-e922-4288-ac82-67a631dd1ade
 
 
 
