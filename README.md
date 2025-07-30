@@ -49,6 +49,7 @@ Awesome Product Manager
 - [Tools for Product Managers](https://www.producthunt.com/e/tools-for-product-managers), listed by [Product Hunt](https://www.producthunt.com/).
 - [Canvanizer](https://canvanizer.com/), a website lets Product Manager create business model canvas and do quick prototype from idea.
 - [Taskade](https://taskade.com/), a collaborative task manager to help teams organize ideas, tasks, and project roadmaps.
+- [Productivity Directory](https://productivity.directory), A curated list of productivity tools
 
 
 ## Credits
