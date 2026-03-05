@@ -49,6 +49,7 @@ Awesome Product Manager
 - [Tools for Product Managers](https://www.producthunt.com/e/tools-for-product-managers), listed by [Product Hunt](https://www.producthunt.com/).
 - [Canvanizer](https://canvanizer.com/), a website lets Product Manager create business model canvas and do quick prototype from idea.
 - [Taskade](https://taskade.com/), a collaborative task manager to help teams organize ideas, tasks, and project roadmaps.
+- [product-manager-skills](https://github.com/Digidai/product-manager-skills), a senior PM agent skill with 6 knowledge domains, 12 templates, and 30+ frameworks. Covers discovery, strategy, delivery, SaaS metrics, career coaching, and AI product craft. Pure Markdown, zero dependencies.
 
 
 ## Credits
